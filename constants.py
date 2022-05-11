@@ -5,7 +5,7 @@ Simulation Constants
 
 class SimColor:
 """
-Tuples corresponding to RGB colors, it is ok ok ok
+Tuples corresponding to RGB colors, it is ok ok ok ok
 """
     LIGHT_GREY = (240, 240, 240)
     DARK_GREY = (30, 30, 50)
@@ -18,7 +18,7 @@ Tuples corresponding to RGB colors, it is ok ok ok
 
 class Disease:
 """
-Constants for disease , it is ok ok ok
+Constants for disease , it is ok ok ok ok 
 """
     INFECTED = 0
     RECOVERED = 1
